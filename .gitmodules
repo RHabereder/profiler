@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/RHabereder/profiler-backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/RHabereder/profiler-frontend
+[submodule "renderservice"]
+	path = renderservice
+	url = https://github.com/RHabereder/profiler-renderservice
